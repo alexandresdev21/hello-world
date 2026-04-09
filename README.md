@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou [Seu Nome]
+# 👋 Olá, eu sou Alexandre Souza
 
 🎓 Estudante de Engenharia de Software (1º período)  
 💻 Interessado em desenvolvimento de software e tecnologia  
@@ -52,7 +52,7 @@ Busco minha primeira oportunidade na área de tecnologia, onde eu possa aprender
 
 ## 📫 Contato
 
-- LinkedIn: [coloque seu link aqui]
-- Email: [seu email aqui]
+- LinkedIn: (https://www.linkedin.com/in/alexandre-souza-souza-506b0b329/edit/forms/position/new/?profileFormEntryPoint=IntroForm)
+- Email: alexandresouza210108@gmail.com
 
 ---
